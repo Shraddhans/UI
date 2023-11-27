@@ -1,0 +1,13 @@
+package com.vivance.gtw.dao.car;
+
+public enum StatusEnum {
+    BOOKING_CONFIRMED,
+    BOOKING_HOLD,
+    BOOKING_CANCELLED,
+    BOOKING_ERROR,
+    BOOKING_INCOMPLETE,
+    BOOKING_VOUCHERED,
+    BOOKING_PENDING,
+    BOOKING_FAILED,
+    BOOKING_INPROGRESS
+}
